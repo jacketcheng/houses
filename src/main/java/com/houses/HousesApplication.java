@@ -1,9 +1,9 @@
-package com.houses.houses;
+package com.houses;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-@SpringBootApplication
+@SpringBootApplication()
 public class HousesApplication {
 
 	public static void main(String[] args) {

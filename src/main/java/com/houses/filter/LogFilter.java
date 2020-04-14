@@ -1,4 +1,4 @@
-package com.houses.houses.filter;
+package com.houses.filter;
 
 
 import org.slf4j.Logger;
