@@ -4,7 +4,7 @@
 <mapper namespace="com.houses.mapper.UserMapper">
 
     <select id="selectUsers" resultType="user">
-        select id,name,email,phone from user
+        select name,phone,email from user
     </select>
 
 
